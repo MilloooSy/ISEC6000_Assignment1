@@ -65,4 +65,6 @@ c. Follow the instructions to authenticate kubectl with your GKE cluster
 
 ![6dd672889e2d4b005c7c76da4baca7f](https://github.com/MilloooSy/ISEC6000_Assignment1/assets/143394742/d674f6a6-6bf0-4d06-9998-e7053efe785b)
 
+![9e554a0f38dbbf47059c1dbc0ca8b72](https://github.com/MilloooSy/ISEC6000_Assignment1/assets/143394742/e3a5d12b-ccbe-468a-8e35-1cb4f23a8c85)
+
 ![5a3a843bdb3f10601471a26e4609682](https://github.com/MilloooSy/ISEC6000_Assignment1/assets/143394742/e5c91dcd-a98d-4116-8924-722c1494d65e)
